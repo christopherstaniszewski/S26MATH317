@@ -34,10 +34,8 @@
         <title>Course Description</title>
 
         <p>
-          An exploration of numerical, graphical, and symbolic approaches to function concepts with emphasis
-on real-world applications, modeling, and problem-solving skills. Topics include polynomial and
-rational functions, equations and inequalities, systems of linear equations, and the connection
-between functions and their graphs. 
+          A precise, rigorous examination of the axioms and concepts of various geometries. 
+          Euclidean, non-Euclidean, and transformational geometries are investigated, and proofs are emphasized throughout the course. 
         </p>
       </li>
 
@@ -45,16 +43,15 @@ between functions and their graphs.
         <title>Prerequisite</title>
 
         <p>
-          Satisfactory score on the mathematics placement.  Also, our course is a prerequisite other courses, including MATH 180 Precalculus.
-Some of them require you to earn at least a C in MATH 123.
+          Sophomore status and completion of MATH 206 Discrete Mathematics I with a minimum grade of C (2.00) or higher.
         </p>
       </li>
 
       <li>
-        <title>Homework</title>
+        <title>Homework: Problem Sets</title>
 
         <p>
-          All homework will appear in <url href="https://www.myopenmath.com/">MyOpenMath</url>.
+          There will be a number of problem sets throughout the semester.
         </p>
 
       </li>
@@ -65,8 +62,8 @@ Some of them require you to earn at least a C in MATH 123.
         <title>Textbook</title>
 
         <p>
-          <pubtitle>College Algebra</pubtitle>
-          by OpenStax (5th edition). <url href="https://openstax.org/details/books/college-algebra-2e" visual="openstax/precalculus">Read Online</url>
+          <pubtitle>Foundations of Geometry</pubtitle>
+          by Gerard A. Venema (2nd edition).
         </p>
 
         <blockquote>
