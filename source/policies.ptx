@@ -26,13 +26,6 @@
   </subsection>
 
   <subsection>
-    <title>Calculators</title>
-    <p>
-      Calculators and other electronic devices are not allowed on quizzes or exams.
-    </p>
-  </subsection>
-
-  <subsection>
     <title>Makeup Exams</title>
     <p>
       Makeup exams may be given for students who miss an exam due to an emergency or to an approved scheduling conflict (see below). Makeup exams must be scheduled after the original exam, and will be administered as soon as is reasonably feasible.
@@ -102,7 +95,7 @@ Make sure you test yourself before I do!
           <p>
             Plagiarism: claiming as one's own work the published or unpublished literal or paraphrased work of another.
             It should be recognized that plagiarism is not only academically dishonest but also illegal;
-            <!-- (Proofs are writing! Using someone else's proof without proper citation is plagiarism!) -->
+            (Proofs are writing! Using someone else's proof without proper citation is plagiarism!)
           </p>
         </li>
         
@@ -139,7 +132,7 @@ Make sure you test yourself before I do!
       Also, LLM's are good at producing nonsense that sounds rational.
       They are bad at producing actual proofs.
       -->
-      Use of Generative AI is prohibited on all assessments.  You may use your best judgement in terms of using AI to study. For instance, you may create study guides or ask for help with a particular step of a textbook exercise.
+      Use of Generative AI is prohibited on all assessments.  
         </p>
   </subsection>
 
